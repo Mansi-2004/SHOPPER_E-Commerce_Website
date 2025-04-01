@@ -19,7 +19,7 @@
     background: #252525;
 }
 
-.collections-item{
+.collections{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 50px;
